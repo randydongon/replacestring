@@ -1,0 +1,11 @@
+{HttpClientModule} from '@angular/common/http';
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
+
+
+import {HttpClient} from '@angular/common/http';
+
+import {Observable} from 'rxjs';
+
+getProviderId():Observable<any[]>{
+return this.http.get<any[]>(this.apiUrl);
+}
