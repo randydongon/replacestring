@@ -1,46 +1,9 @@
-Daily collect
-
-1. Pony orm syntax queries generator
-
-
-https://github.com/litehelpers/Cordova-sqlite-storage
-
-3fNMTKdV
-
-夕食のため、一旦抜けます - pag dinner
-
-
-[Today's Goal]
-1. PonyOrm by generating more complex queries.
-2. Tornado - Handlers Paramater, String Service
-
-[Tasks]
-[Achievements]
-I have grasped the concept and applictions of the following parts in ponyorm and tornado by making a simple app and done some exercises in python interactive mode.
-
-1. PonyOrm 
-  - Connecting to the database
-  	- create database ojbect	
-  	- Defining entities 
-  	- Binding the database object
-  	- Mapping, Methods and attributes of the database
-  -JSON Attribute
-  -Assign,modify value in JSON attribute	
-  -Querying JSON structures - excellent feature which ensure data integrity.
-
-2. Tornado : 
-	- Handlres Parameter, String service, Request handlers
-	- Interpolating Expressions
-	- Method GET, POST, DELETE, HEAD, OPTIONS
-	- Control Flow Statements
-	- Using Functions Inside Template
-
-[What I will do tomorrow]
-Continue making excercises with tornado and ponyorm 
-
-
-excellent morning sama desu
-
-
-
-excellent morning sama desu
+Nutshell Handbook, the Nutshell Handbook logo, and the O’Reilly logo are registered trademarks of O’Reilly
+Media, Inc. Python Cookbook, the image of a springhaas, and related trade dress are trademarks of O’Reilly
+Media, Inc.
+Many of the designations used by manufacturers and sellers to distinguish their products are claimed as
+trademarks. Where those designations appear in this book, and O’Reilly Media, Inc., was aware of a trade‐
+mark claim, the designations have been printed in caps or initial caps.
+While every precaution has been taken in the preparation of this book, the publisher and authors assume
+no responsibility for errors or omissions, or for damages resulting from the use of the information contained
+herein.
